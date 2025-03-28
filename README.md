@@ -1,41 +1,49 @@
-# Website
+# Koreanisch
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator, and is dedicated to learning Korean.
 
-### Installation
+## Installation
 
-```
-$ yarn
-```
+Install the project dependencies with:
 
-### Local Development
-
-```
-$ yarn start
+```bash
+yarn
 ```
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+## Local Development
 
-### Build
+Start the development server with:
 
-```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
+```bash
+yarn start
 ```
 
-Not using SSH:
+This command launches a local server and automatically opens your browser. Any changes you make are reflected live without needing to restart the server.
 
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
+## Build
+
+To generate the static site, run:
+
+```bash
+yarn build
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+This creates static content in the `build` directory, which can be deployed to any static hosting service.
+
+## Deployment
+
+If you are hosting with GitHub Pages, you can deploy using one of the following commands:
+
+- **Using SSH:**
+
+  ```bash
+  USE_SSH=true yarn deploy
+  ```
+
+- **Without SSH:**
+
+  ```bash
+  GIT_USER=<Your GitHub username> yarn deploy
+  ```
+
+This command builds the site and pushes the contents to the `gh-pages` branch.

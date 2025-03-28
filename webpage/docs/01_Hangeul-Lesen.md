@@ -1,4 +1,4 @@
-# 🟦 Einführung in Hangeul – Das koreanische Schriftsystem 📚✨
+# 🟦 Einführung in Hangeul
 
 ## 1. Einführung und historische Hintergründe ⏳👑
 

@@ -1,6 +1,9 @@
 # 👨‍👩‍👧‍👦 Familie 가족
 
-![alt text](images/familie.png)
+<div style="text-align: center;">
+  <img src="images/familie.png" alt="Familie" width="200" />
+</div>
+
 
 | Koreanisch       | Aussprache     | Deutsch                          |
 |------------------|----------------|----------------------------------|

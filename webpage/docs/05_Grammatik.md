@@ -1,7 +1,9 @@
-# 🇰🇷 "Ich lerne Koreanisch" – alle Personen (Gegenwart, höflich)
+# 📘 Satzbau - Gegenwartsform
 
-| Deutsch         | Koreanisch                        | Aussprache                    | Hinweis                          |
-|-----------------|-----------------------------------|-------------------------------|----------------------------------|
+## Konjugation von „lernen“ – 배우다 (baeuda) mit „Koreanisch lernen“
+
+| Deutsch         | Koreanisch                       | Aussprache                    | Hinweis                          |
+|-----------------|----------------------------------|-------------------------------|----------------------------------|
 | Ich lerne       | 저는 한국어를 배워요.              | *jeoneun hangugeoreul baewoyo* | höflich, standard                |
 | Du lernst       | 너는 한국어를 배워요.              | *neoneun hangugeoreul baewoyo* | informell, zu Freunden           |
 | Er lernt        | 그는 한국어를 배워요.              | *geuneun hangugeoreul baewoyo* | neutral                          |
@@ -20,7 +22,7 @@
 
 ---
 
-## 🗣 Optional: Noch höflicher (z. B. in Präsentationen)
+## 🗣 Optional: Noch höflicher
 
 | Deutsch     | Sehr formeller Stil              | Aussprache                        |
 |-------------|----------------------------------|-----------------------------------|
