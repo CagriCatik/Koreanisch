@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('@site/static/img/logo.svg').default,
     description: (
       <>
-        Sprache ist Kultur. Lerne nicht nur Vokabeln, sondern auch Hintergründe zur koreanischen Geschichte, Alltag und Popkultur.
+        Sprache ist Kultur. Lerne nicht nur Vokabeln, sondern auch Hintergründe zur koreanischen Geschichte und Alltag.
       </>
     ),
   },

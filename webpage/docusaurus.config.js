@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Koreanisch',
+  title: 'Koreanisch für Anfänger*innen',
   tagline: '', // Optionally add a tagline like "Learn Korean Easily"
   favicon: 'img/favicon.ico',
 
@@ -52,7 +52,7 @@ const config = {
       // Replace with your project's social card if you have one.
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'Koreanisch',
+        title: ' ',
         logo: {
           alt: 'Koreanisch Logo',
           src: 'img/logo.svg',

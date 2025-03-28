@@ -18,7 +18,6 @@
 
 /* Dark mode styles */
 [data-theme='dark'] {
-  --ifm-color-primary: #003478; /* Blue from Taegeuk */
   --ifm-color-primary-dark: #002d68;
   --ifm-color-primary-darker: #00275c;
   --ifm-color-primary-darkest: #001f49;
